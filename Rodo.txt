@@ -1,2 +1,6 @@
 hola!!!
 git status
+
+git add .
+git commit -m "aca va el texto"
+git push
